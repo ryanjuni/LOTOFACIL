@@ -1,2 +1,2 @@
 # LOTOFACIL
-# Documentação do LotoFacilInterface
+# Documentação do LOTOFÁCIL SEM INTEFACE
