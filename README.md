@@ -1,6 +1,13 @@
 # LOTOFACIL :
 # Documentação do LOTOFÁCIL SEM INTEFACE
 
+Bibliotecas utilizadas :
+• Random
+• Scanner
+
+Professor : João Paulo Aramuni
+Diciplina : Linguagem de Programação
+
 • Regras para a aposta de 0 a 100:
 
   • Documentação:
