@@ -5,7 +5,8 @@ Bibliotecas utilizadas :
 • Random
 • Scanner
 
-Professor : João Paulo Aramuni
+Professor : João Paulo Aramuni 
+|------------------------------------------|
 Diciplina : Linguagem de Programação
 
 • Regras para a aposta de 0 a 100:
