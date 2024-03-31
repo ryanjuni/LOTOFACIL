@@ -1,14 +1,14 @@
 # LOTOFACIL :
 # Documentação do LOTOFÁCIL SEM INTEFACE
 
-Bibliotecas utilizadas :
+# Bibliotecas utilizadas :
 • Random
 • Scanner
 
 Versão 17 do JDK.
 Professor : João Paulo Aramuni
 
-Para Rodar  o LotoFacil.
+# Para Rodar  o LotoFacil.
 Passo 1 :
   abra  o Intellij ou à ide da sua Preferência.
 Passo 2:
