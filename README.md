@@ -14,8 +14,8 @@ Passo 1 :
 Passo 2:
 Clique no botão Run no Canto Superior Direito da Ide.
 
-|------------------------------------------|
-Diciplina : Linguagem de Programação
+# Diciplina :
+Linguagem de Programação.
 
 • Regras para a aposta de 0 a 100:
 
