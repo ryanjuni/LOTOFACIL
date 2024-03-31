@@ -21,9 +21,8 @@ Linguagem de Programação.
 
   • Documentação:
     https://docs.oracle.com/javase/8/docs/api/java/util/Scanner.html
-|------------------------------------------------------------------------------------------------------------------|
-     https://docs.oracle.com/javase/8/docs/api/java/util/Random.html
-|-------------------------------------------------------------------------|     
+
+     https://docs.oracle.com/javase/8/docs/api/java/util/Random.html     
 
  • Regras para a aposta de A à Z:   
 
