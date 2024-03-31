@@ -4,9 +4,9 @@
 # Bibliotecas utilizadas :
 • Random
 • Scanner
-
+|--------------------------------------------|
 Versão 17 do JDK.
-Professor : João Paulo Aramuni
+ [Professor : João Paulo Aramuni]
 
 # Para Rodar  o LotoFacil.
 Passo 1 :
