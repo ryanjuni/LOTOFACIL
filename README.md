@@ -5,7 +5,7 @@ Bibliotecas utilizadas :
 • Random
 • Scanner
 
-Versão 17 do JK.
+Versão 17 do JDK.
 
 Professor : João Paulo Aramuni 
 |------------------------------------------|
