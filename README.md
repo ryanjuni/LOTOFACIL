@@ -5,6 +5,8 @@ Bibliotecas utilizadas :
 • Random
 • Scanner
 
+Versão 17 do JK.
+
 Professor : João Paulo Aramuni 
 |------------------------------------------|
 Diciplina : Linguagem de Programação
