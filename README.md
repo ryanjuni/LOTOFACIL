@@ -4,7 +4,7 @@
 # Bibliotecas utilizadas :
 • Random
 • Scanner
-|--------------------------------------------|
+
 Versão 17 do JDK.
  [Professor : João Paulo Aramuni]
 
