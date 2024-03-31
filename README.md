@@ -27,6 +27,6 @@ Linguagem de Programação.
  • Regras para a aposta de A à Z:   
 
    • Documentação:
-|-------------------------------------------------------------------------------------------------------------------|
+
      https://docs.oracle.com/javase/8/docs/api/java/lang/Character.html
-|-------------------------------------------------------------------------|     
+  
