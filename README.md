@@ -1,5 +1,5 @@
 # LOTOFACIL :
-# Documentação do LOTOFÁCIL SEM INTEFACE
+ Documentação do LOTOFÁCIL SEM INTEFACE
 
 # Bibliotecas utilizadas :
 • Random
