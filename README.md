@@ -1,6 +1,11 @@
 # LOTOFACIL :
  Documentação do LOTOFÁCIL SEM INTEFACE
-
+ 
+ Professor :
+   João Paulo Aramuni
+ Aluno :
+   Ryan Junio 
+   
 # Bibliotecas utilizadas :
 • Random
 • Scanner
