@@ -14,9 +14,14 @@ Versão 17 do JDK.
  [Professor : João Paulo Aramuni]
 
 # Para Rodar  o LotoFacil.
+
 Passo 1 :
-  abra  o Intellij ou à ide da sua Preferência.
-| Passo 2:
+  Copie Código no Repositório LotoFacil.
+|Passo 2 :
+  abra  o Intellij ou à Ide da sua Preferência.
+|Passo 3:
+  o Cole Código no Intellij ou na sua Ide de Preferência.
+| Passo 4:
 Clique no botão Run no Canto Superior Direito da Ide.
 
 # Diciplina :
