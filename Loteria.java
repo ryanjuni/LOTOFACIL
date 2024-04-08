@@ -3,13 +3,13 @@ import java.util.Random;
 
 public class Loteria {
     public static void menu () {
-        System.out.println("**************************\n");
+        System.out.println("**************************");
         System.out.println("Menu LOTOFÁCIL:\n");
         System.out.println("1) Apostar de 0 a 100 ");
         System.out.println("2) Apostar de A à Z ");
         System.out.println("3) Apostar em Par ou Ímpar ");
         System.out.println("0) Sair ");
-        System.out.println("**************************\n");
+        System.out.println("**************************");
     }
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
