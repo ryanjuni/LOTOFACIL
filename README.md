@@ -41,6 +41,6 @@ Linguagem de Programação.
      https://docs.oracle.com/javase/8/docs/api/java/lang/Character.html
 
  <div>
-<img align="center" alt="Header" src="https://drive.google.com/file/d/1-10UQX4m8SxEsFMDHHOAiqbz8L2DsnnG/view?usp=drive_link.jpg?raw=true"/>
+<img align="center" alt="Header" src=""/>
 </div>
   
