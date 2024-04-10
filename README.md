@@ -43,4 +43,7 @@ Linguagem de Programação.
  <div>
 <img align="center" alt="Header" src="https://github.com/ryanjuni/LOTOFACIL/blob/main/Loto.jpg"/>
 </div>
+
+# Link para o Vídeo do LotoFácil: 
+ https://github.com/ryanjuni/LOTOFACIL/issues/1
   
