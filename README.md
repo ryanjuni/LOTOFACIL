@@ -35,11 +35,11 @@ Linguagem de Programação.
    • Documentação:
 
      https://docs.oracle.com/javase/8/docs/api/java/lang/Character.html
- # Imagem do LotoFácil :
+ # Imagem 
  <div>
 <img align="center" alt="Header" src="https://github.com/ryanjuni/LOTOFACIL/blob/main/Loto.jpg"/>
 </div>
 
-#  Vídeo do LotoFácil: 
+#  Vídeo Demonstrativo
 
   https://github.com/ryanjuni/LOTOFACIL/assets/102491606/1a8b7faa-f652-476d-b7f4-118bbd07f211
