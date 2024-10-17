@@ -5,7 +5,7 @@
 
 
 
- Documentação do LOTOFÁCIL SEM INTEFACE
+  LOTOFÁCIL Com INTEFACE
  
    
 # Bibliotecas utilizadas 
@@ -26,8 +26,8 @@ Passo 1 :
 | Passo 4:
 Clique no botão Run no Canto Superior Direito da Ide.
 
-# Diciplina 
-Linguagem de Programação.
+# Documentação
+
 
 • Regras para a aposta de 0 a 100:
 
