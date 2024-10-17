@@ -8,7 +8,7 @@
  Documentação do LOTOFÁCIL SEM INTEFACE
  
    
-# Bibliotecas utilizadas :
+# Bibliotecas utilizadas 
 • Random
 • Scanner
 
@@ -26,7 +26,7 @@ Passo 1 :
 | Passo 4:
 Clique no botão Run no Canto Superior Direito da Ide.
 
-# Diciplina :
+# Diciplina 
 Linguagem de Programação.
 
 • Regras para a aposta de 0 a 100:
@@ -38,7 +38,7 @@ Linguagem de Programação.
 
  • Regras para a aposta de A à Z:   
 
-   • Documentação:
+   • Documentação
 
      https://docs.oracle.com/javase/8/docs/api/java/lang/Character.html
 
