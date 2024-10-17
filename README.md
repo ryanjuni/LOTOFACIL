@@ -5,7 +5,7 @@
 
 
 
-  LOTOFÁCIL Com INTEFACE
+ LOTOFÁCIL Com INTEFACE 
  
    
 # Bibliotecas utilizadas 
@@ -18,8 +18,9 @@
  </li>
 
 </ul>
-Versão 17 do JDK.
- [Professor : João Paulo Aramuni]
+<i>
+Versão 17 do JDK. <br>
+ Professor - João Paulo Aramuni </i>
 
 # Para Rodar  o LotoFacil
 <div>
