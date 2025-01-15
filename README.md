@@ -68,3 +68,7 @@ Clique no botão Run no Canto Superior Direito da Ide.
 #  Vídeo Demonstrativo
 
   https://github.com/ryanjuni/LOTOFACIL/assets/102491606/1a8b7faa-f652-476d-b7f4-118bbd07f211
+
+# Dependências
+
+Java
